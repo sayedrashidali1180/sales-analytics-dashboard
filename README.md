@@ -20,7 +20,7 @@ sales-analytics-dashboard/
 │   └── superstore_cleaned.csv       # Cleaned dataset
 ├── cleaning.ipynb                   # Python data cleaning notebook
 ├── queries.sql                      # SQL business queries
-├── dashboard.pbix                   # Power BI dashboard
+├── Sales_Analytics_Dashboard.pbix                   # Power BI dashboard
 └── README.md
 ```
 
