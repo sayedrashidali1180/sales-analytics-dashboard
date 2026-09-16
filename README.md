@@ -1,6 +1,6 @@
 # 📊 Sales Performance Analytics Dashboard
 
-A complete end-to-end data analytics project analyzing 10,000+ sales records from a Superstore dataset. Built using Python, SQL (PostgreSQL), and Power BI.
+A complete end-to-end data analytics project analyzing 9,994+ sales records from a Superstore dataset. Built using Python, SQL (PostgreSQL), and Power BI.
 
 ---
 
